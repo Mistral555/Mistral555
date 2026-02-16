@@ -44,5 +44,19 @@ I’m constantly looking to grow, contribute to impactful software solutions, an
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <a href="https://github.com/Mistral555">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mistral555&theme=radical" alt="GitHub Stats" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mistral555&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mistral555&theme=radical&bg_color=141321&hide_border=true" alt="Activity Graph" />
 </div>
