@@ -1,4 +1,4 @@
-# Hi there, I'm a Full-Stack Web Developer & BI Enthusiast 👋
+# Zoubir, Full-Stack Web Developer & BI Enthusiast 👋
 
 I’m a passionate developer with over 3 years of hands-on experience in software engineering and digital solutions. I’ve designed and built robust web applications, always focusing on clean architecture and maintainability. 
 
@@ -49,12 +49,23 @@ I’m constantly looking to grow, contribute to impactful software solutions, an
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_NOM_UTILISATEUR&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mistral555&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mistral555&theme=radical" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mistral555&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+### 📫 Let's Connect!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/zoubir-mabed/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mabedzoubir05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
