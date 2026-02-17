@@ -52,7 +52,7 @@ I’m constantly looking to grow, contribute to impactful software solutions, an
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mistral555&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mistral555&theme=radical&v=2" alt="GitHub Streak" />
 </div>
 
 <br>
