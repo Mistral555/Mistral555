@@ -231,6 +231,7 @@ My dual background in full-stack development and Business Intelligence allows me
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Scrum-4B0082?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/Web%20Development-6A0DAD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
