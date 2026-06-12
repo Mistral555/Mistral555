@@ -175,6 +175,7 @@ My dual background in full-stack development and Business Intelligence allows me
         <li>Delivered full-stack solution covering both backend logic and front-end interface</li>
       </ul>
       <br/>
+      <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/GitLab-18284E?style=flat-square&logo=gitlab&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -294,11 +295,11 @@ My dual background in full-stack development and Business Intelligence allows me
 
 ---
 
-## GitHub Trophies
+<!-- ## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mistral555&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
+</div> -->
 
 ---
 
@@ -310,7 +311,7 @@ My dual background in full-stack development and Business Intelligence allows me
 
 ---
 
-## Contribution Snake
+<!-- ## Contribution Snake
 
 <div align="center">
   <picture>
@@ -318,7 +319,7 @@ My dual background in full-stack development and Business Intelligence allows me
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mistral555/Mistral555/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Mistral555/Mistral555/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</div> -->
 
 ---
 
