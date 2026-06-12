@@ -110,12 +110,12 @@ My dual background in full-stack development and Business Intelligence allows me
 
 <table>
   <tr>
-    <td valign="top" width="80">
+    <td valign="top" width="120">
       <img src="https://img.shields.io/badge/2024-Now-6A0DAD?style=flat-square&logoColor=white" />
     </td>
     <td valign="top">
-      <strong>BI Developer</strong> &nbsp;·&nbsp; <strong>BMS Circuits</strong><br/>
-      <sub>September 2024 — Present · Bayonne, France</sub>
+      <strong>Développeur BI</strong> &nbsp;·&nbsp; <strong>ALL Circuits</strong><br/>
+      <sub>September 2024 — Present · Contrat en alternance · Mouguerre, Nouvelle-Aquitaine, France</sub>
       <br/><br/>
       Designing and developing Business Intelligence applications on <strong>Qlik Sense</strong>, transforming complex operational data into interactive, decision-ready dashboards for internal stakeholders.
       <br/><br/>
@@ -130,7 +130,56 @@ My dual background in full-stack development and Business Intelligence allows me
       <img src="https://img.shields.io/badge/Data%20Modelling-4B0082?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/ETL-6A0DAD?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-7B2FBE?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/KPI%20Design-9B59B6?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Communication-9B59B6?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td valign="top" width="120">
+      <img src="https://img.shields.io/badge/Apr--Jul-2024-6A0DAD?style=flat-square&logoColor=white" />
+    </td>
+    <td valign="top">
+      <strong>Développeur Web Front-End</strong> &nbsp;·&nbsp; <strong>OpenCEMS Industrial Chair</strong><br/>
+      <sub>April 2024 — July 2024 · 4 months · Stage · Anglet, Nouvelle-Aquitaine, France</sub>
+      <br/><br/>
+      Developed front-end interfaces for industrial web applications within an academic research chair environment, focusing on reactive UI components and data visualisation.
+      <br/><br/>
+      <ul>
+        <li>Built dynamic interfaces using Angular and PrimeNG component library</li>
+        <li>Collaborated with research engineers to translate technical requirements into UI</li>
+        <li>Implemented responsive layouts and interactive data display components</li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/PrimeNG-4B0082?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-6A0DAD?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td valign="top" width="120">
+      <img src="https://img.shields.io/badge/Jan--May-2023-6A0DAD?style=flat-square&logoColor=white" />
+    </td>
+    <td valign="top">
+      <strong>Développeur Web</strong> &nbsp;·&nbsp; <strong>NUMILOG ALGERIE</strong><br/>
+      <sub>January 2023 — May 2023 · 5 months · Stage · Béjaïa, Algérie · Hybride</sub>
+      <br/><br/>
+      End-of-cycle Master internship focused on the design and development of a <strong>Computerised Maintenance Management System (CMMS)</strong> platform, delivering a full web application from architecture to deployment.
+      <br/><br/>
+      <ul>
+        <li>Designed and built a complete CMMS web platform for asset and maintenance tracking</li>
+        <li>Modelled the relational database schema and managed data with MySQL</li>
+        <li>Implemented version control and CI workflows using GitLab</li>
+        <li>Delivered full-stack solution covering both backend logic and front-end interface</li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab-18284E?style=flat-square&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Full--Stack-6A0DAD?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -141,12 +190,12 @@ My dual background in full-stack development and Business Intelligence allows me
 
 <table>
   <tr>
-    <td valign="top" width="80">
+    <td valign="top" width="120">
       <img src="https://img.shields.io/badge/2025-2027-6A0DAD?style=flat-square&logoColor=white" />
     </td>
     <td valign="top">
-      <strong>Master — Data Engineer</strong> &nbsp;·&nbsp; <strong>Simplon</strong><br/>
-      <sub>Expected graduation: April 2027 · France</sub>
+      <strong>Master 2 (M2) — Data Modeling, Warehousing & Database Administration</strong> &nbsp;·&nbsp; <strong>Simplon Nouvelle Aquitaine</strong><br/>
+      <sub>October 2025 — April 2027 · France</sub>
       <br/><br/>
       Advanced programme focused on data engineering fundamentals: data warehouse architecture, pipeline orchestration, distributed data systems, and modern data stack tooling.
       <br/><br/>
@@ -154,6 +203,48 @@ My dual background in full-stack development and Business Intelligence allows me
       <img src="https://img.shields.io/badge/ETL%20Pipelines-6A0DAD?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-9B59B6?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td valign="top" width="120">
+      <img src="https://img.shields.io/badge/2023-2025-6A0DAD?style=flat-square&logoColor=white" />
+    </td>
+    <td valign="top">
+      <strong>Master's Degree — Computer Science</strong> &nbsp;·&nbsp; <strong>Université de Pau et des Pays de l'Adour</strong><br/>
+      <sub>2023 — 2025 · France</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaEE-4B0082?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/ArchiMate-6A0DAD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Software%20Engineering-7B2FBE?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td valign="top" width="120">
+      <img src="https://img.shields.io/badge/2021-2023-6A0DAD?style=flat-square&logoColor=white" />
+    </td>
+    <td valign="top">
+      <strong>Master — Computer Science</strong> &nbsp;·&nbsp; <strong>University of Bejaia</strong><br/>
+      <sub>September 2021 — June 2023 · Béjaïa, Algérie</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scrum-4B0082?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Web%20Development-6A0DAD?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td valign="top" width="120">
+      <img src="https://img.shields.io/badge/2018-2021-6A0DAD?style=flat-square&logoColor=white" />
+    </td>
+    <td valign="top">
+      <strong>Licence — Computer Science</strong> &nbsp;·&nbsp; <strong>University of Bejaia</strong><br/>
+      <sub>September 2018 — June 2021 · Béjaïa, Algérie</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Web%20Development-4B0082?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Algorithms-6A0DAD?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
