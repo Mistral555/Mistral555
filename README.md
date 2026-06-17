@@ -311,7 +311,7 @@ My dual background in full-stack development and Business Intelligence allows me
 
 ---
 
-<!-- ## Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -319,7 +319,7 @@ My dual background in full-stack development and Business Intelligence allows me
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mistral555/Mistral555/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Mistral555/Mistral555/output/github-contribution-grid-snake.svg" />
   </picture>
-</div> -->
+</div>
 
 ---
 
