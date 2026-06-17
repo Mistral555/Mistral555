@@ -309,9 +309,8 @@ My dual background in full-stack development and Business Intelligence allows me
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mistral555&theme=react-dark&bg_color=0D1117&color=9B59B6&line=7B2FBE&point=ffffff&hide_border=true" />
 </div>
 
----
 
-## Contribution Snake
+<br/>
 
 <div align="center">
   <picture>
