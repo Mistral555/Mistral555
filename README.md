@@ -324,31 +324,28 @@ My dual background in full-stack development and Business Intelligence allows me
 
 ## Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Data warehouse architecture and dimensional modelling
-    - Apache Airflow for pipeline orchestration
-    - dbt (data build tool) for transformation workflows
-    - Spark and distributed data processing
+**Learning**
+- Data warehouse architecture and dimensional modelling
+- Apache Airflow for pipeline orchestration
+- dbt (data build tool) for transformation workflows
+- Spark and distributed data processing
 
-  building:
-    - End-to-end data warehouse from scratch
-    - Automated ETL workflows and scheduling
-    - BI dashboards connected to warehouse layers
+**Building**
+- End-to-end data warehouse from scratch
+- Automated ETL workflows and scheduling
+- BI dashboards connected to warehouse layers
 
-  exploring:
-    - Modern data stack (Snowflake, dbt, Airbyte)
-    - Data quality frameworks and observability
-    - Cloud-native data infrastructure
+**Exploring**
+- Modern data stack (Snowflake, dbt, Airbyte)
+- Data quality frameworks and observability
+- Cloud-native data infrastructure
 
-  open_to:
-    - Data Engineer positions
-    - BI Developer roles
-    - Full-Stack Engineering opportunities
-    - Remote / hybrid contracts
-    - Freelance missions
-```
+**Open to**
+- Data Engineer positions
+- BI Developer roles
+- Full-Stack Engineering opportunities
+- Remote / hybrid contracts
+- Freelance missions
 
 ---
 
